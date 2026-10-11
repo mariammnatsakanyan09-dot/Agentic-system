@@ -1,0 +1,9 @@
+langgraph>=0.2
+langchain>=0.3
+langchain-anthropic
+pydantic>=2
+pytest
+# for the scripts the executor writes (Task 5 needs numerics / a network):
+numpy
+scipy
+torch
